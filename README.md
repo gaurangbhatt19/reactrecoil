@@ -1,2 +1,2 @@
-# reactrecoil
+# ReactAuth
 Created with CodeSandbox
